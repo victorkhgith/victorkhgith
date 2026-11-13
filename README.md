@@ -1,8 +1,5 @@
 ### Victor Khen, IP Infusion
 
-I contribute OcNOS fixes and docs to open-source lab and automation tools.
-I test changes on the OcNOS VM before opening a pull request.
-
 **Merged**
 
 - [ipspace/netlab](https://github.com/ipspace/netlab): OcNOS as a netlab device
