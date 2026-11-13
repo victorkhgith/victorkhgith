@@ -1,6 +1,6 @@
 ### Victor Khen, IP Infusion
 
-I add OcNOS support to open-source lab and automation tools.
+I contribute OcNOS fixes and docs to open-source lab and automation tools.
 I test changes on the OcNOS VM before opening a pull request.
 
 **Merged**
