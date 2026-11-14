@@ -9,6 +9,10 @@
   ([#3977](https://github.com/ipspace/netlab/pull/3977))
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab): where to get the OcNOS image and how to build it
   ([#3552](https://github.com/srl-labs/containerlab/pull/3552))
+- [srl-labs/vrnetlab](https://github.com/srl-labs/vrnetlab): OcNOS download link and tested image
+  ([#571](https://github.com/srl-labs/vrnetlab/pull/571))
+- [GNS3/gns3-registry](https://github.com/GNS3/gns3-registry): OcNOS-SP appliance
+  ([#1091](https://github.com/GNS3/gns3-registry/pull/1091))
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation):
   OcNOS API docs and the Ansible collection ([#197](https://github.com/networktocode/awesome-network-automation/pull/197))
 
