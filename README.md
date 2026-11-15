@@ -8,7 +8,8 @@
   ([#3984](https://github.com/ipspace/netlab/pull/3984)), and docker exec output in validation tests
   ([#3977](https://github.com/ipspace/netlab/pull/3977))
 - [srl-labs/containerlab](https://github.com/srl-labs/containerlab): where to get the OcNOS image and how to build it
-  ([#3552](https://github.com/srl-labs/containerlab/pull/3552))
+  ([#3552](https://github.com/srl-labs/containerlab/pull/3552)), and startup-config support for OcNOS
+  ([#3600](https://github.com/srl-labs/containerlab/pull/3600))
 - [srl-labs/vrnetlab](https://github.com/srl-labs/vrnetlab): OcNOS download link and tested image
   ([#571](https://github.com/srl-labs/vrnetlab/pull/571))
 - [GNS3/gns3-registry](https://github.com/GNS3/gns3-registry): OcNOS-SP appliance
